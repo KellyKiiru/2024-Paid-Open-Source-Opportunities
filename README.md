@@ -38,3 +38,7 @@ This program runs from May to August and is referred to as a summer internship b
 
 This mentorship is aimed at training the next generation of open source developers to build a stronger and more diverse community of skilled developers and engineers. The [stipend](https://docs.linuxfoundation.org/lfx/mentorship/mentee-stipends) for this program starts at $3000 - $6600 adjusted according to a countries purchasing power parity(PPP)
 
+8. ## [The X.Org Endless Vacation of Code (EVoC)](https://www.x.org/wiki/XorgEVoC/)
+
+This $5000 stipend is given to successfull applicants for a three or four month period of contigous nearly full time working. It was created after the organization(which was, previously, a contributor in GSoC) decided to venture out on its own providing another platform where talented developers get a chance to contribute code. 
+The stipend is given in three tranches with an initial $500 payment issued at the beginning and two $2250 payments later on. You can [learn more on the program here](https://www.x.org/wiki/XorgEVoC/).
