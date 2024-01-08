@@ -36,5 +36,5 @@ This program runs from May to August and is referred to as a summer internship b
 
 7. ## [Linux Foundation Mentorship Programs](https://lfx.linuxfoundation.org/tools/mentorship/)
 
-This mentorship is aimed at training the next generation of open source developers to build a stronger and more diverse community of skilled developers and engineers. The stipend for this program is at least $3000
+This mentorship is aimed at training the next generation of open source developers to build a stronger and more diverse community of skilled developers and engineers. The [stipend](https://docs.linuxfoundation.org/lfx/mentorship/mentee-stipends) for this program starts at $3000 - $6600 adjusted according to a countries purchasing power parity(PPP)
 
