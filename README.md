@@ -33,3 +33,8 @@ This is a 12 week internship program for software developers, working at least 2
 6. ## [Reinforcement Learning by MicroSoft](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
 
 This program runs from May to August and is referred to as a summer internship by countries in the upper hemisphere. It focuses on introducing students(newbies in programming to open source reinforcement learning and software development while working alongside engineers, researchers and data scientists.) Students will work on a 16 week research programming project which they will present to the Microsoft Research Real World Reinforcement Learning team online. The stipend for your contribution is $10,000 or your local equivalent. 
+
+7. ## [Linux Foundation Mentorship Programs](https://lfx.linuxfoundation.org/tools/mentorship/)
+
+This mentorship is aimed at training the next generation of open source developers to build a stronger and more diverse community of skilled developers and engineers. The stipend for this program is at least $3000
+
