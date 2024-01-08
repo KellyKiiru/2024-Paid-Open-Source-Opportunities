@@ -25,3 +25,7 @@ This is a program targeted for technical writers. If you are great at writing do
 
 The primary goal of the Hyperledger Mentorship Program is to establish a well-structured, hands-on learning experience for new contributors who may not otherwise have the chance to participate in the Hyperledger open source development community. Prospective mentees will submit applications and be paired with mentors actively involved in the Hyperledger community, working remotely from their preferred locations. Ongoing assessment and feedback mechanisms will be in place, allowing mentees to showcase their progress and contributions through various channels such as blogging, speaking engagements at meetups or regional events, and the potential to attend a global Hyperledger event to present their work in person while networking with peers in the wider community. Similar to GSoC and GSoD the stipend is adjusted according to the country of residence of the mentees with purchasing power parity taken into consideration but ranges from $3000 - $6000. Visit their intern page to [learn more about the program](https://wiki.hyperledger.org/display/INTERN).
 
+5. ## [Major League Hacking Fellowship](https://fellowship.mlh.io/programs/open-source)
+
+![Local Image](/media/Screenshot%20from%202024-01-08%2010-01-01.png)
+This is a 12 week internship program for software developers, working at least 20 hours a week. The stipend given is $5000 for the entirity of the period. Newbies in programming are encouraged to apply as well in order to sharpen their skills.
