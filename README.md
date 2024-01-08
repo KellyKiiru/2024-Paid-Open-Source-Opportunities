@@ -27,5 +27,5 @@ The primary goal of the Hyperledger Mentorship Program is to establish a well-st
 
 5. ## [Major League Hacking Fellowship](https://fellowship.mlh.io/programs/open-source)
 
-![Local Image](/media/Screenshot%20from%202024-01-08%2010-01-01.png)
+![Success](/media/Screenshot%20from%202024-01-08%2010-01-01.png)
 This is a 12 week internship program for software developers, working at least 20 hours a week. The stipend given is $5000 for the entirity of the period. Newbies in programming are encouraged to apply as well in order to sharpen their skills.
