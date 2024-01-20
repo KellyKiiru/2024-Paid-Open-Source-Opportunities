@@ -1,4 +1,4 @@
-# Paid open-source Opportunities
+# Paid open-source Opportunities 2024
 
 Compiled here is a list of paid open-source opportunities.
 
