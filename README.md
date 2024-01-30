@@ -8,7 +8,7 @@ These institutions cater to individuals at entry-level proficiency, and a subset
 1. ## [OUTREACHY](https://www.outreachy.org/)
 
 ![Success](/media/Screenshot%20from%202024-01-30%2021-16-25.png)
-Outreachy provides paid internships in Open-Source, with a stipend of $7000 USD. It is beginner-friendly. 
+Outreachy provides paid internships in Open-Source, with a stipend of USD 7000. It is beginner-friendly. 
 Contributors have to go through a series of steps before being incorporated into the 3-month program. 
 There are two intakes every year - May and December.
 
